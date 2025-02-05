@@ -90,7 +90,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <p>
 			<!-- Log on to freeprojectscodes.com for more projects! -->
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            The Student Attendance Management System (SAMS) is designed to simplify the tracking of student attendance in educational institutions. With a user-friendly interface and advanced reporting tools, SAMS helps educators efficiently monitor and manage attendance data for each student. The system reduces administrative overhead, enhances accountability, and ensures a smooth process for both teachers and students. SAMS also allows for easy integration with other educational systems and can be customized to meet the needs of different institutions.
 
 
             </p>
@@ -141,8 +141,7 @@
             <div class="content">
               <h3>Why SAMS ?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                SAMS offers an efficient and accurate way to track student attendance. With real-time data collection and automatic reports, educators can quickly identify attendance issues and take action. The system is designed to improve accuracy, reduce errors, and save time on administrative tasks. It also helps in fostering better student-teacher communication and promotes a more organized environment in educational institutions.
               </p>
               <div class="text-center">
                 <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -155,22 +154,22 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Feature 1</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam enim assumenda eum similique eveniet quae quis in sequi, molestias odio distinctio corporis ratione. Odio, velit voluptates ipsum numquam optio quae?</p>
+                    <h4>Quick & Accurate</h4>
+                    <p> SAMS allows for quick and easy attendance recording, reducing the time spent on manual checks and ensuring accuracy.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Feature 2</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam temporibus labore dolorem maiores culpa incidunt illum odio, qui veritatis pariatur expedita nostrum quod voluptates repudiandae. Ad, dicta? Totam, ullam tempore!</p>
+                    <h4>Automatic Report Generation</h4>
+                    <p>The system generates detailed attendance reports and analyses, helping educators monitor trends and identify potential issues.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Feature 3</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur eum minus iste praesentium! Esse quo harum cupiditate atque labore quidem fugit fuga reprehenderit tenetur dignissimos odio, aut minima nisi vel.</p>
+                    <h4>Intuitive User Interface</h4>
+                    <p>With an easy-to-navigate interface, SAMS allows teachers and students to access attendance data and insights efficiently.</p>
                   </div>
                 </div>
               </div>
@@ -199,7 +198,7 @@
                 <h4>Sudip Poudel</h4>
                 <span>Project Manager</span>
                 <p>
-                  Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Sudip Poudel is responsible for overseeing the development and implementation of SAMS. With his leadership, SAMS has grown into an intuitive and powerful tool for managing student attendance.
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -217,7 +216,7 @@
                 <h4>Sujal Shrestha</h4>
                 <span>Frontend Developer</span>
                 <p>
-                  Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Sujal Shrestha is the creative mind behind SAMS' user interface. His design work ensures the platform is both functional and visually appealing.
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -235,7 +234,7 @@
                 <h4>Anushka Sharma</h4>
                 <span>Backend Developer</span>
                 <p>
-                  Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Anushka Sharma ensures SAMS operates smoothly on the backend. She specializes in database management and system optimization.
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -254,7 +253,7 @@
                 <h4>Alish Magaju</h4>
                 <span>Database Administrator</span>
                 <p>
-                  Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                Alish Magaju is responsible for managing the data that drives SAMS. With his expertise in databases, he ensures that the system stores and retrieves data efficiently.
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -273,7 +272,7 @@
                 <h4>Aisha Kattel</h4>
                 <span>QA & Cybersecurity</span>
                 <p>
-                  Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                Aisha Kattel is responsible for overseeing QA and Cybersecurity to ensure SAMS maintains its high standards of quality and security. 
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -335,7 +334,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Some random text spaces here. For now, just a demo text all over!</p>
+            <p>Subscribe to our weekly newsletter catching us with our latest updates.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe Now!!">
             </form>
