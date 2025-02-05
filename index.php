@@ -64,7 +64,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex justify-content-center align-items-center" style="background-image: url('assets/img/banner.jpeg');">
+  <section id="hero" class="d-flex justify-content-center align-items-center" style="background-image: url('assets/img/banner.jpg');">
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
       <h1>Student Attendance Management System<br>( SAMS )</h1>
       <!-- <h2>Learning Today, Leading Tomorrow.</h2> -->
@@ -349,7 +349,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; <strong><span>Student Grading System</span></strong> - <?php echo date('Y');?> - Developed By XXX
+          &copy; <strong><span>Student Attendance Management System</span></strong> - <?php echo date('Y');?> - Developed By XXX
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
